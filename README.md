@@ -2,7 +2,7 @@
 
 A fun interactive game that tracks your exercises using computer vision with MediaPipe and OpenCV.
 
-![Game Screenshot](assets/screenshot.png) *(Add a screenshot later if you want)*
+![Game Screenshot](assets/screenshot.png)
 
 ## Features ✨
 - **Hand Exercise**: Stretch to collect coins
